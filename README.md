@@ -1,3 +1,5 @@
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=gao746700783&show_icons=true&bg_color=ffffff&hide_title=true&theme=vue&cache_seconds=86400" />
+
 ### Hi there 你好 👋
 
 - 👋 Hi, I’m @gao746700783
@@ -7,7 +9,6 @@
 - 📫 How to reach me :gao746700783@163.com
 
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=nslogx&show_icons=true&bg_color=ffffff&hide_title=true&theme=vue&cache_seconds=86400" />
 
  
 <!---
